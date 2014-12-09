@@ -1,0 +1,10 @@
+{
+    "name": "niev/jquery-maskedinput",
+    "description": "JQuery masked input plugin",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@github.com:Niev/jquery.maskedinput.git"
+        }
+    ]
+}
